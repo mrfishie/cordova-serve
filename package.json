@@ -1,0 +1,20 @@
+{
+  "name": "cordova-serve",
+  "version": "1.0.0-dev",
+  "description": "Apache Cordova server support for cordova-lib and cordova-browser.",
+  "main": "cordove-serve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git-wip-us.apache.org/repos/asf/cordova-serve.git"
+  },
+  "keywords": [
+    "cordova",
+    "server",
+    "apache"
+  ],
+  "author": "Apache Software Foundation",
+  "license": "Apache version 2.0"
+}
